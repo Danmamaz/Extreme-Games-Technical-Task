@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f3b8c118e9097d845a161acda28048da
+timeCreated: 1437565749
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44832
+  packageName: Low Poly Destructible Cars
+  packageVersion: 1.0
+  assetPath: Assets/DestructibleCars/Demo/Preview.unity
+  uploadId: 79942

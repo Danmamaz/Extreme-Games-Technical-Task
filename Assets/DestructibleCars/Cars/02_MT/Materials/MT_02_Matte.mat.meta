@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 95f0455b546c662478addc9888f77cfe
+timeCreated: 1440594433
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44832
+  packageName: Low Poly Destructible Cars
+  packageVersion: 1.0
+  assetPath: Assets/DestructibleCars/Cars/02_MT/Materials/MT_02_Matte.mat
+  uploadId: 79942

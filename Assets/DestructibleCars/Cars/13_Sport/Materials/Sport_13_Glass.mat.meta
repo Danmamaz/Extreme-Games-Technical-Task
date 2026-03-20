@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d011e5d1c39317543bdc1bdcd4657964
+timeCreated: 1440600102
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44832
+  packageName: Low Poly Destructible Cars
+  packageVersion: 1.0
+  assetPath: Assets/DestructibleCars/Cars/13_Sport/Materials/Sport_13_Glass.mat
+  uploadId: 79942

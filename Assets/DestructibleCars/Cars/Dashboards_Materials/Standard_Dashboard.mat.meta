@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 47d8979dd6efeb441a8f63b03ebcf0c4
+timeCreated: 1440594992
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44832
+  packageName: Low Poly Destructible Cars
+  packageVersion: 1.0
+  assetPath: Assets/DestructibleCars/Cars/Dashboards_Materials/Standard_Dashboard.mat
+  uploadId: 79942

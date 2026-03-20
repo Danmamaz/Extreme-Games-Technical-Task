@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 42b64cfc0f98be74ba92c223ebb210af
+timeCreated: 1440173516
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44832
+  packageName: Low Poly Destructible Cars
+  packageVersion: 1.0
+  assetPath: Assets/DestructibleCars/Wheels/MT_Wheel/Materials/MT_Wheel_02_Rim.mat
+  uploadId: 79942

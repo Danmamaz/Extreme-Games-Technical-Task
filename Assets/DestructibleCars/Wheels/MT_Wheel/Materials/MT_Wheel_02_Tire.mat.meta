@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4fe05bdf87b461f49b0b8e0a07209101
+timeCreated: 1440173515
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44832
+  packageName: Low Poly Destructible Cars
+  packageVersion: 1.0
+  assetPath: Assets/DestructibleCars/Wheels/MT_Wheel/Materials/MT_Wheel_02_Tire.mat
+  uploadId: 79942

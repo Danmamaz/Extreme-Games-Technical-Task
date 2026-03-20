@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f6327d0be5b64644997d8dc48db77ae8
+timeCreated: 1441110226
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44832
+  packageName: Low Poly Destructible Cars
+  packageVersion: 1.0
+  assetPath: Assets/DestructibleCars/Wheels/Wheel_Med/Materials/Wheel_Med.mat
+  uploadId: 79942

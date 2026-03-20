@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 29d0098da047fd043ad060357ccb7c71
+timeCreated: 1440669484
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44832
+  packageName: Low Poly Destructible Cars
+  packageVersion: 1.0
+  assetPath: Assets/DestructibleCars/Cars/17_Tank/Materials/Tank_17_LightsCover_1-8.mat
+  uploadId: 79942

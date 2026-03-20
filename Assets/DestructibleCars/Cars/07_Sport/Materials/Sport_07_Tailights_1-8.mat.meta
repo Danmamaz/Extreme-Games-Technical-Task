@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 748d936c69d74ec48ac62286919565f7
+timeCreated: 1440596383
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44832
+  packageName: Low Poly Destructible Cars
+  packageVersion: 1.0
+  assetPath: Assets/DestructibleCars/Cars/07_Sport/Materials/Sport_07_Tailights_1-8.mat
+  uploadId: 79942

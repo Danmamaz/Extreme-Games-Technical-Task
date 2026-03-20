@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dcac41fd3b37d5245991f2877676fb06
+timeCreated: 1440679772
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44832
+  packageName: Low Poly Destructible Cars
+  packageVersion: 1.0
+  assetPath: Assets/DestructibleCars/Cars/10_Bus/Materials/Bus_10_ReverseLights_9-16.mat
+  uploadId: 79942

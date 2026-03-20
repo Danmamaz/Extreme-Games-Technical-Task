@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 08493eb2f3415b744a480ea12e3db7af
+timeCreated: 1440176478
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44832
+  packageName: Low Poly Destructible Cars
+  packageVersion: 1.0
+  assetPath: Assets/DestructibleCars/Wheels/F1_Wheel/Materials/Wheel_01_Rim.mat
+  uploadId: 79942

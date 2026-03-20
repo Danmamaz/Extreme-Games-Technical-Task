@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 548a536716bbd03478d2b465e3366465
+timeCreated: 1440669484
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44832
+  packageName: Low Poly Destructible Cars
+  packageVersion: 1.0
+  assetPath: Assets/DestructibleCars/Cars/17_Tank/Materials/Tank_17_Tracks.mat
+  uploadId: 79942

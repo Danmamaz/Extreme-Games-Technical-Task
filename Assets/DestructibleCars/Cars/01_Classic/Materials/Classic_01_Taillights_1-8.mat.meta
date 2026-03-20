@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2738047704fa6214ebb31e5e7b90d210
+timeCreated: 1441220991
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44832
+  packageName: Low Poly Destructible Cars
+  packageVersion: 1.0
+  assetPath: Assets/DestructibleCars/Cars/01_Classic/Materials/Classic_01_Taillights_1-8.mat
+  uploadId: 79942

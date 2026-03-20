@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b40667a737bb8ed4e83d5dd8048ca3bf
+timeCreated: 1440586454
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44832
+  packageName: Low Poly Destructible Cars
+  packageVersion: 1.0
+  assetPath: Assets/DestructibleCars/Wheels/Wheels/Materials/Wheel_Tire.mat
+  uploadId: 79942

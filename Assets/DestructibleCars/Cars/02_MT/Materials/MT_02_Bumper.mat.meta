@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2da12137adbd1a742aa94d93dfbb47ad
+timeCreated: 1440594432
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44832
+  packageName: Low Poly Destructible Cars
+  packageVersion: 1.0
+  assetPath: Assets/DestructibleCars/Cars/02_MT/Materials/MT_02_Bumper.mat
+  uploadId: 79942

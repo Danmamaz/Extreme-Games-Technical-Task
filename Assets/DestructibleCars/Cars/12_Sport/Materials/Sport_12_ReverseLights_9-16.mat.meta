@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 606604f52e09d6b49b2797e5f12c4227
+timeCreated: 1440667102
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44832
+  packageName: Low Poly Destructible Cars
+  packageVersion: 1.0
+  assetPath: Assets/DestructibleCars/Cars/12_Sport/Materials/Sport_12_ReverseLights_9-16.mat
+  uploadId: 79942

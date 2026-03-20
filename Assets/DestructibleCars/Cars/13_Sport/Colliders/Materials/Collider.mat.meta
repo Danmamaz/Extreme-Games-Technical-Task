@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 389c2b478bd1da74e87dfc334f7a3364
+timeCreated: 1438627400
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44832
+  packageName: Low Poly Destructible Cars
+  packageVersion: 1.0
+  assetPath: Assets/DestructibleCars/Cars/13_Sport/Colliders/Materials/Collider.mat
+  uploadId: 79942

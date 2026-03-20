@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2f02080ab1b13bc4ab0680563b9fa603
+timeCreated: 1440600102
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44832
+  packageName: Low Poly Destructible Cars
+  packageVersion: 1.0
+  assetPath: Assets/DestructibleCars/Cars/13_Sport/Materials/Sport_13_Body.mat
+  uploadId: 79942
